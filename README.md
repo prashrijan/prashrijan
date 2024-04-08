@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Bachelor of Information and Technology <br>🎯 Goals: Have openAI chip inside my brain<br></p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Bachelor of Information and Technology <br>🎯 Goals: Have openAI chip inside my brain<br></p>
 
 ###
 
